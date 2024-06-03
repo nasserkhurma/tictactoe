@@ -8,7 +8,8 @@ const winConditions = [
     [1, 4, 7],
     [2, 5, 8],
     [0, 4, 8],
-    [2, 4, 6] This is the code that I created to teach the algorythim the win conditions possbile for a player to win as. 
+    [2, 4, 6] 
+    This is the code that I created to teach the algorythim the win conditions possbile for a player to win as. 
      
      How has your understanding of computing changed since the beginning of the semester? Identify at least one specific piece of knowledge, concept, or attitude? My understanding of computing has changed darasticaly and my knowledge of comupter science has increases expontentialy, the main core piece of knowledhe that I understabd the most is how an algorythym works, and I learned that you need to be very specefic to the very dot. 
      
